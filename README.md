@@ -47,8 +47,8 @@
 <hr/>
 
 <div align=center>
- <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Blessedcode" alt="readme stats" />
- <img width=390 src="https://github.com/Blessedcode/github-readme-streak-stats" alt="readme stats" />
+ <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Blessdcode" alt="readme stats" />
+ 
 </div>
 
 <br/><br/>
