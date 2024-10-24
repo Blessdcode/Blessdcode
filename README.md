@@ -11,7 +11,7 @@
 
 <div align="center">
  
- <!-- 🔭 I’m currently working on **E-commerce application** -->
+ 🔭 I’m open for collaboration!
  
  🌱 I’ve worked with **React, Next js, and other frontend technologies**
 
