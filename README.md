@@ -29,8 +29,14 @@
   </a>
   <a href="https://twitter.com/Blessdbnjmn" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+      
   </a>
- 
+  
+ [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=1CA2F1&color=1CA2F1)](https://twitter.com/Blessdbnjmn)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=for-the-badge&logo=twitter&logoColor=1CA2F1&color=1CA2F1)](https://twitter.com/Blessdbnjmn)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=0D76A8&color=0D76A8)](https://www.linkedin.com/in/sanusihayatu/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=instagram&logoColor=940081&color=940081)](https://www.linkedin.com/in/sanusihayatu/)
+
 </div> 
 
 
@@ -50,11 +56,11 @@
 
 <br>
 
-<a href="https://github.com/hamicch">
+<a href="https://github.com/Blessdcode">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blessdcode&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/hamicch">
+<a href="https://github.com/Blessdcode">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Blessdcode&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
@@ -75,14 +81,7 @@
 </h3>
 
 <br/>
-<hr/>
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=1CA2F1&color=1CA2F1)](https://twitter.com/hamicch)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=0D76A8&color=0D76A8)](https://www.linkedin.com/in/sanusihayatu/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=instagram&logoColor=940081&color=940081)](https://www.linkedin.com/in/sanusihayatu/)
-
-
-<br>
 
 
 
