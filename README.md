@@ -75,7 +75,34 @@
  
 </div> 
 
-<br/><br/>
+<br/>
+
+
+### Stats
+![Udoka's GitHub stats](https://github-stats-seven-lemon.vercel.app/api?username=Onyelaudochukwuka&count_private=true)
+
+### Coding Streaks
+
+ ​[![​GitHub Streak​](https://github-readme-streak-stats.herokuapp.com/?user=Onyelaudochukwuka&starting_year=2021)](https://github.com/Onyelaudochukwuka)<br>
+
+### Coding Time
+
+[![wakatime](https://wakatime.com/badge/user/3cb90ed5-1bb9-4b97-a943-3c8e85a6dcbb.svg)](https://wakatime.com/@3cb90ed5-1bb9-4b97-a943-3c8e85a6dcbb)
+<br />
+[![Udoka's wakatime stats](https://github-stats-seven-lemon.vercel.app/api/wakatime?username=udoka)](https://github.com/anuraghazra/github-readme-stats)
+
+### Github Trophies
+
+[![trophy](https://github-trophy-nine.vercel.app/?username=Onyelaudochukwuka&title=Stars,Followers,MultiLanguage,Organizations,Commits,PullRequest,Issues,Stars,Repository)](https://github-trophy-nine.vercel.app/?username=Onyelaudochukwuka)
+
+
+### Top Languages
+
+[![Top Langs](https://github-stats-seven-lemon.vercel.app/api/top-langs/?username=Onyelaudochukwuka&count-private=true&langs_count=10)](https://github.com/Onyelaudochukwuka)
+
+
+
+<br/>
 <hr/>
 
 <h3 align="center">
