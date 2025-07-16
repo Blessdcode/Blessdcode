@@ -31,11 +31,8 @@
     <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
       
   </a>
-  
- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=1CA2F1&color=1CA2F1)](https://twitter.com/Blessdbnjmn)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=for-the-badge&logo=twitter&logoColor=1CA2F1&color=1CA2F1)](https://twitter.com/Blessdbnjmn)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=0D76A8&color=0D76A8)](https://www.linkedin.com/in/sanusihayatu/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=instagram&logoColor=940081&color=940081)](https://www.linkedin.com/in/sanusihayatu/)
+
+
 
 </div> 
 
