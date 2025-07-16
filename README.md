@@ -45,7 +45,6 @@
 </a>
 <a href="https://github.com/Blessdcode">
  <img align="center" style="margin:0.5rem"  src="https://github-readme-streak-stats.herokuapp.com/?user=Blessdcode" alt="readme stats" />
-     ​[![​GitHub Streak​](https://github-readme-streak-stats.herokuapp.com/?user=Onyelaudochukwuka&starting_year=2021)](https://github.com/Onyelaudochukwuka)
 </a>
  </div>
 <br>
