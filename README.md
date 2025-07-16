@@ -79,9 +79,9 @@
 
 ### Coding Time
 
-[![wakatime](https://wakatime.com/badge/user/d50db30f-4dcd-4292-8c3e-8bb3c8db8bd9.svg)]()
+[![wakatime](https://wakatime.com/badge/user/d50db30f-4dcd-4292-8c3e-8bb3c8db8bd9.svg)](https://wakatime.com/@d50db30f-4dcd-4292-8c3e-8bb3c8db8bd9)
 <br />
-[![Udoka's wakatime stats](https://github-stats-seven-lemon.vercel.app/api/wakatime?username=Blessdcode)](https://github.com/anuraghazra/github-readme-stats)
+[![Blessdcode's wakatime stats](https://github-stats-seven-lemon.vercel.app/api/wakatime?username=Blessdcode)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
