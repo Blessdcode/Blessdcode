@@ -64,6 +64,11 @@
 <br>
 <hr/>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Blessdcode&theme=github-dark)
+
+
+<br>
+<hr/>
 
  <div align=center>
  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Blessdcode" alt="readme stats" />
