@@ -79,11 +79,11 @@
 
 
 ### Stats
-![Udoka's GitHub stats](https://github-stats-seven-lemon.vercel.app/api?username=Onyelaudochukwuka&count_private=true)
+![Udoka's GitHub stats](https://github-stats-seven-lemon.vercel.app/api?username=Blessdcode&count_private=true)
 
 ### Coding Streaks
 
- ​[![​GitHub Streak​](https://github-readme-streak-stats.herokuapp.com/?user=Onyelaudochukwuka&starting_year=2021)](https://github.com/Onyelaudochukwuka)<br>
+ ​[![​GitHub Streak​](https://github-readme-streak-stats.herokuapp.com/?user=Blessdcode&starting_year=2021)](https://github.com/Blessdcode)<br>
 
 ### Coding Time
 
@@ -91,14 +91,12 @@
 <br />
 [![Udoka's wakatime stats](https://github-stats-seven-lemon.vercel.app/api/wakatime?username=udoka)](https://github.com/anuraghazra/github-readme-stats)
 
-### Github Trophies
 
-[![trophy](https://github-trophy-nine.vercel.app/?username=Onyelaudochukwuka&title=Stars,Followers,MultiLanguage,Organizations,Commits,PullRequest,Issues,Stars,Repository)](https://github-trophy-nine.vercel.app/?username=Onyelaudochukwuka)
 
 
 ### Top Languages
 
-[![Top Langs](https://github-stats-seven-lemon.vercel.app/api/top-langs/?username=Onyelaudochukwuka&count-private=true&langs_count=10)](https://github.com/Onyelaudochukwuka)
+[![Top Langs](https://github-stats-seven-lemon.vercel.app/api/top-langs/?username=Blessdcode&count-private=true&langs_count=10)](https://github.com/Blessdcode)
 
 
 
