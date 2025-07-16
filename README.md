@@ -57,10 +57,6 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blessdcode&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Blessdcode">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Blessdcode&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
 <br>
 <hr/>
 
@@ -78,12 +74,7 @@
 <br/>
 
 
-### Stats
-![Udoka's GitHub stats](https://github-stats-seven-lemon.vercel.app/api?username=Blessdcode&count_private=true)
 
-### Coding Streaks
-
- ​[![​GitHub Streak​](https://github-readme-streak-stats.herokuapp.com/?user=Blessdcode&starting_year=2021)](https://github.com/Blessdcode)<br>
 
 ### Coding Time
 
@@ -94,9 +85,6 @@
 
 
 
-### Top Languages
-
-[![Top Langs](https://github-stats-seven-lemon.vercel.app/api/top-langs/?username=Blessdcode&count-private=true&langs_count=10)](https://github.com/Blessdcode)
 
 
 
