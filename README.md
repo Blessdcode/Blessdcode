@@ -62,6 +62,8 @@
 
 <hr/>
 
+<!--
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Blessdcode&theme=github-dark)
 <br>
 
@@ -75,7 +77,7 @@
 
 [![Blessdcode's wakatime stats](https://github-stats-seven-lemon.vercel.app/api/wakatime?username=Blessdcode)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-
+-->
 <hr/>
 
 <h3 align="center">
