@@ -45,7 +45,7 @@
 <br/>
 <hr/>
 
-## &#x1f4c8; GitHub Stats
+
 <br>
 
 <!-- <div align="center"> 
